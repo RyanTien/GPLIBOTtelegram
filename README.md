@@ -9,28 +9,6 @@
 [![Follow Twitter](https://img.shields.io/badge/Twitter-GLPI%20Project-26A2FA.svg)](https://twitter.com/GLPI_PROJECT)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
-## Updates Roadmap version 3.0
-
- - [x] New Ticket.
- - [x] Search ticket.
- - [x] New followup.
- - [x] Support group notification.
- - [x] Login.
-
-## New TelegramBot Commands:
-```
-Commands List:
-
-/help - Show bot commands help.
-/login - Login via Telegrambot for GLPI. The login command will only work on private chat. 
-Group chat Login Command is forbidden.
-/newfollowup - Add a new followup to a ticket on GLPI via TelegramBot.
-/newticket - Add a new ticket on GLPI via TelegramBot.
-/searchticket - Search for a ticket on GLPI via TelegramBot.
-
-For exact command help type: /help <command>
-```
-
 
 ## Table of Contents
 
