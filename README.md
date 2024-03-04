@@ -2,7 +2,7 @@
 
 ![GLPI Banner](https://user-images.githubusercontent.com/29282308/31666160-8ad74b1a-b34b-11e7-839b-043255af4f58.png)
 
-[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](./license)
+[![Version GPLI 3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](./license)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://telegram.me/tgbotglpi)
 [![Github All Releases](https://img.shields.io/github/downloads/pluginsGLPI/telegrambot/total.svg)](http://plugins.glpi-project.org/#/plugin/telegrambot)
