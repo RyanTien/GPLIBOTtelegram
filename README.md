@@ -25,12 +25,6 @@
 
 This Bot for GLPI allows you to get notifications on Telegram when a ticket is created on GLPI, keeping you up to date with what's happening in your IT infrastructure..
 
-## Build Status
-
-|**Release channel**|Beta Channel|
-|:---:|:---:|
-|[![Travis CI build](https://api.travis-ci.org/pluginsGLPI/telegrambot.svg?branch=master)](https://travis-ci.org/pluginsGLPI/telegrambot/)|[![Travis CI build](https://api.travis-ci.org/pluginsGLPI/telegrambot.svg?branch=develop)](https://travis-ci.org/pluginsGLPI/telegrambot/)|
-
 ## Installation
 
 Click on the image to view the video preview.
