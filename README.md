@@ -11,7 +11,6 @@
 ## Table of Contents
 
 * [Synopsis](#synopsis)
-* [Build Status](#build-status)
 * [Installation](#installation)
 * [Installation and Configuration step by step](#installation-and-configuration-step-by-step)
 * [Documentation](#documentation)
